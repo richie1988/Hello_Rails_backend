@@ -46,6 +46,9 @@
 
 ### Key Features <a name="key-features"></a>
 
+- 🔰 **Static view**
+- 🔰 **Display API response**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
