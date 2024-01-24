@@ -9,7 +9,7 @@
 
 # 📗 Table of Contents
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[BudgetManager\] ](#-budgetmanager-)
+- [📖 \[Hello\_React\_Rails\_Backend\] ](#-hello_react_rails_backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [BudgetManager] <a name="about-project"></a>
+# 📖 [Hello_React_Rails_Backend] <a name="about-project"></a>
 
 **[REACT RAILS SETUP]** 
 ## 🛠 Built With <a name="built-with"></a>
@@ -46,6 +46,9 @@
 
 ### Key Features <a name="key-features"></a>
 
+- 🔰 **Static view**
+- 🔰 **Display API response**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -54,6 +57,8 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+[Link to the Front End app](https://github.com/richie1988/Hello_react_rails/)
 
 ### Prerequisites
 
