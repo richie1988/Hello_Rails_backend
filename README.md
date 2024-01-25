@@ -58,7 +58,7 @@
 
 To get a local copy up and running, follow these steps.
 
-[Link to the Front End app](https://github.com/richie1988/Hello_react_rails/)
+[Link to the Front End app](https://github.com/richie1988/Hello_React_Front_End/)
 
 ### Prerequisites
 
