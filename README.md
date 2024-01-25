@@ -51,7 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -72,7 +71,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ``` sh
-    git clone https://github.com/richie1988/Hello_react_rails
+    git clone https://github.com/richie1988/Hello_Rails_backend
 ```
 
 ### Install
@@ -115,7 +114,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/richie1988/Hello_react_rails/issues).
+Feel free to check the [issues page](https://github.com/richie1988/Hello_Rails_backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
